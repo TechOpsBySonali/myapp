@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        ACR_NAME = 'myAcrRegistry'
+        ACR_NAME = 'acr0987'
         IMAGE_NAME = 'myapp'
     }
 
